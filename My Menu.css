@@ -246,6 +246,8 @@ h1 {
     .icon.flight::before { content: "✈️"; }
     /* vacation/holiday */
     .icon.vacation::before { content: "🏖️"; }
+    /* Person */
+    .icon.vacation::before { content: "👤"; }
     /* more */
 
     /* Optional nice look for 'more' */
