@@ -248,7 +248,8 @@ h1 {
     .icon.vacation::before { content: "🏖️"; }
     /* Person */
     .icon.vacation::before { content: "👤"; }
-    /* more */
+    /* Cloud */
+    .icon.vacation::before { content: "☁️"; }
 
     /* Optional nice look for 'more' */
     .icon.more {
