@@ -250,6 +250,8 @@ h1 {
     .icon.vacation::before { content: "👤"; }
     /* Cloud */
     .icon.vacation::before { content: "☁️"; }
+    /* Smartphone */
+    .icon.vacation::before { content: "📲"; }
 
     /* Optional nice look for 'more' */
     .icon.more {
